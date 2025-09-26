@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Help")
+    rowHeight: medium
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.inFolder("Help")

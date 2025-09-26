@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fa7bd437b9fd49b1",
+        "id": "04aab6be4e58e95d",
         "type": "tabs",
-        "dimension": 57.77126099706745,
         "children": [
           {
-            "id": "23b8bf70f6b401c5",
+            "id": "c7e9da2b35c9d821",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
+                "file": "GlobalDatabase.base",
+                "viewName": "Card"
               },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7e012c5ebe9986aa",
-        "type": "tabs",
-        "dimension": 42.22873900293255,
-        "children": [
-          {
-            "id": "cf05dd236e39e813",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-layout-grid",
+              "title": "GlobalDatabase"
             }
           }
         ]
@@ -62,7 +43,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -79,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -96,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "right": {
     "id": "31282b208c742fa4",
@@ -112,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "Algorithm/language/C++ language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "Backlinks for C++ language"
             }
           },
           {
@@ -131,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "Algorithm/language/C++ language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "Outgoing links from C++ language"
             }
           },
           {
@@ -151,7 +132,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -160,40 +141,83 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "Help/ObsidianHelp/插件/templater.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "Outline of templater"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 288,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "workspaces:管理工作区布局": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": true,
+      "bases:Create new base": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0033f615c8e1f3a7",
+  "active": "c7e9da2b35c9d821",
   "lastOpenFiles": [
-    "README.md",
-    "欢迎.md",
-    "attachments/CL♣BS-user￦ANKE-73246816_p0.jpg",
-    "attachments",
+    "Computer/ComputerBase.base",
+    "Computer/Algorithm/基础：数据结构及排序/数组.md",
+    "Computer/Algorithm/basic knowledge.md",
+    "Computer/Algorithm/language/C++ language.md",
+    "Help/ObsidianHelp/插件/code Styler.md",
+    "Help/ObsidianHelp/插件/templater.md",
+    "Help/ObsidianHelp/插件/Dataview.md",
+    "Help/ObsidianHelp/basic.md",
+    "Help/ObsidianHelp/Editing and formatting.md",
+    "template",
+    "Help/ToolsHelp/Command.md",
+    "Help/ObsidianHelp/插件",
+    "Help/HelpBase.base",
+    "GlobalDatabase.base",
+    "Help/ToolsHelp/git与github.md",
+    "Help/ToolsHelp/vim.md",
+    "Help/ToolsHelp/IDE/IDESummary.md",
+    "Help/others/qustion.md",
+    "Computer/front/colors.md",
+    "英语词义分类数据库/0本资料库基本信息/致谢名单.md",
+    "Computer/front",
+    "Help/ToolsHelp/IDE",
+    "Help/others",
+    "Computer",
+    "英语词义分类数据库/45广义空间/01打开 关闭.md",
+    "英语词义分类数据库/45广义空间/00广义空间组目录（复习）.md",
+    "英语词义分类数据库/45广义空间/00广义空间组目录.md",
+    "英语词义分类数据库/45广义空间/03凸凹.md",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/45广义空间/open.md",
+    "英语词义分类数据库/44取予得失/00取予得失组目录（复习）.md",
+    "英语词义分类数据库/44取予得失/00取予得失组目录.md",
+    "英语词义分类数据库/44取予得失/02给予 交给.md",
+    "英语词义分类数据库/01基础领域/01政治/00政治组目录.md",
+    "英语词义分类数据库/00总目录/03时间度量.md",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/3.jpg",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/4.jpg",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/奥卡西平.png",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/壁纸.jpg",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/辨析手稿.jpg",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/词典.jpg",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/回家的火车.jpg",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/键盘.jpg",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/来那度胺.jpg",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片/历程.jpg",
+    "英语词义分类数据库/英语词义分类数据库（大学版）/附件图片",
     "未命名.canvas"
   ]
 }

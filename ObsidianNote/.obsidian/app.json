@@ -1,4 +1,7 @@
 {
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current",
+  "focusNewTab": true,
+  "alwaysUpdateLinks": true
 }

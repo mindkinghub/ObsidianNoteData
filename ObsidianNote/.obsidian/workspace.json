@@ -11,13 +11,15 @@
             "id": "c7e9da2b35c9d821",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "GlobalDatabase.base",
-                "viewName": "Card"
+                "file": "Help/ToolsHelp/git与github.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "GlobalDatabase"
+              "icon": "lucide-file",
+              "title": "git与github"
             }
           }
         ]
@@ -173,6 +175,7 @@
   },
   "active": "c7e9da2b35c9d821",
   "lastOpenFiles": [
+    "GlobalDatabase.base",
     "Computer/ComputerBase.base",
     "Computer/Algorithm/基础：数据结构及排序/数组.md",
     "Computer/Algorithm/basic knowledge.md",
@@ -186,7 +189,6 @@
     "Help/ToolsHelp/Command.md",
     "Help/ObsidianHelp/插件",
     "Help/HelpBase.base",
-    "GlobalDatabase.base",
     "Help/ToolsHelp/git与github.md",
     "Help/ToolsHelp/vim.md",
     "Help/ToolsHelp/IDE/IDESummary.md",

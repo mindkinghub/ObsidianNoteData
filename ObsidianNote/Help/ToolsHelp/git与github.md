@@ -233,6 +233,10 @@ git remote add origin https://github.com/your-username/your-repository.git
 
 git pull origin main --allow-unrelated-histories //从远程仓库拉取最新的内容，看看是否有更新 `--allow-unrelated-histories` 允许合并两个没有共同历史的 Git 仓库。
 
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
 git add .
 git commit -m "Your commit message"
 

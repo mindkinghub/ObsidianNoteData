@@ -1,0 +1,28 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "computer": 1,
+    "y1984": 2,
+    "TAG": 3,
+    "camelCase": 4,
+    "PascalCase": 5,
+    "snake_case": 6,
+    "kebab-case": 7,
+    "编号：会连接到该仓库所对应的Issue编号": 8,
+    "obsidian": 9,
+    "date": 10,
+    "help": 11,
+    "书籍": 12,
+    "SumatraPDF": 13
+  },
+  "_version": 3
+}

@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    sort:
+      - property: file.mtime
+        direction: DESC
+    rowHeight: medium
+  - type: cards
+    name: Card
+    order:
+      - file.name
+      - file.backlinks
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC

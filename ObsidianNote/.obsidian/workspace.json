@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "8e3df20916796ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a80eac1c010f3b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db467b37156fee9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Help/ToolsHelp/git与github.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "git与github"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da922eecfa210ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "46cd04ff15662c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0033f615c8e1f3a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9cdaa904a6c7e29d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "SSH",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "566a385390ba4338",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294
+  },
+  "right": {
+    "id": "31282b208c742fa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d719f27f61615fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "709cb2bf445346a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithm/language/C++ language.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C++ language"
+            }
+          },
+          {
+            "id": "342d4555f4c077b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algorithm/language/C++ language.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C++ language"
+            }
+          },
+          {
+            "id": "470ca3c6e7766948",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "189e038eafc1c794",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer/Algorithm/基础：数据结构及排序/链表.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 链表"
+            }
+          },
+          {
+            "id": "9889426370dcf64e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "db467b37156fee9b",
+  "lastOpenFiles": [
+    "Help/应用推荐/实用windows软件/下载download+梯子.md",
+    "Help/ToolsHelp/windows.md",
+    "Help/ToolsHelp/git与github.md",
+    "Help/ToolsHelp/Docker.md",
+    "Help/应用推荐/实用windows软件/文件files.md",
+    "Help/应用推荐/实用windows软件/查看器.md",
+    "Help/应用推荐/实用windows软件/远程控制软件.md",
+    "Help/应用推荐/实用windows软件/音乐music.md",
+    "Help/应用推荐/实用windows软件/笔记.md",
+    "literature/novel/待写题材/历史/历史穿越人物大纲.md",
+    "literature/novel/待写题材/历史/人物/赵垣.md",
+    "literature/novel/待写题材/历史/背景大纲.md",
+    "literature/novel/待写题材/历史/人物/周启.md",
+    "literature/novel/待写题材/历史/人物/李济.md",
+    "literature/novel/待写题材/历史/人物/钱冶.md",
+    "literature/novel/待写题材/历史/人物/孙弈.md",
+    "literature/novel/历史/推荐.md",
+    "literature/novel/待写题材/多元世界/悬疑大陆/简介.md",
+    "literature/novel/待写题材/多元世界/背景大纲.md",
+    "literature/novel/待写题材/多元世界/玄幻大陆/简介.md",
+    "literature/novel/待写题材/多元世界/修仙大陆/简介.md",
+    "literature/novel/待写题材/多元世界/武道大陆/简介.md",
+    "literature/novel/待写题材/多元世界/奇幻大陆/简介.md",
+    "literature/novel/待写题材/多元世界/多元世界人物大纲.md",
+    "literature/novel/金手指/推荐.md",
+    "literature/novel/待写题材/多元世界/关键人物/朱遗影-男.md",
+    "literature/novel/金手指",
+    "literature/novel/历史",
+    "literature/novel/武道",
+    "literature/novel/修仙",
+    "literature/novel/悬疑",
+    "literature/novel/玄幻",
+    "literature/novel/其他/我于人间已无敌/人物",
+    "literature/novel/其他/我于人间已无敌",
+    "literature/novel/其他",
+    "literature/novel/西幻/罪恶之城",
+    "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019003523.png",
+    "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019003317.png",
+    "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019002918.png",
+    "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019002734.png",
+    "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019002429.png",
+    "Help/ToolsHelp/attachments/Pasted image 20251015011738.png",
+    "Help/ToolsHelp/attachments/Pasted image 20251015011722.png",
+    "Help/ToolsHelp/attachments/Pasted image 20251015011708.png",
+    "Help/ToolsHelp/attachments/Pasted image 20251015011649.png",
+    "Help/ToolsHelp/attachments/Pasted image 20251015011631.png",
+    "未命名.canvas"
+  ]
+}

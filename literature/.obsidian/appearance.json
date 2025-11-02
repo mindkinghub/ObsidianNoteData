@@ -1,0 +1,13 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "custom-rainbow-colors"
+  ],
+  "theme": "obsidian",
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "baseFontSize": 15,
+  "baseFontSizeAction": false,
+  "nativeMenus": false
+}

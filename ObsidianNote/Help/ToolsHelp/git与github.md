@@ -241,7 +241,7 @@ git add .
 git commit -m "Your commit message"
 
 git push origin main
-
+git push origin main --force //如果需要强制推送（谨慎使用）
 ```
 
 ### 可选操作

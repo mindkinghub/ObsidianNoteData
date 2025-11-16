@@ -23,6 +23,12 @@
 ![[attachments/Pasted image 20251015011059.png]]
 巨算符：
 ![[attachments/Pasted image 20251015011144.png]]
+
+
+| 符号名称 | latex表示形式        | 示例                 |
+| ---- | ---------------- | ------------------ |
+| 求和   | \sum_{i=0}^n A_i | $\sum_{i=0}^n A_i$ |
+
 数学重音符号：
 最后一个`\wideparen`依赖`yhmath`宏包。
 ![[attachments/Pasted image 20251015011229.png]]
@@ -60,4 +66,36 @@ AMS其它符号：
 | 下划线  | \underline{ }     | $$\underline{f}$$       |
 | 向上取整 | \lceil x \rceil   | $\lceil x \rceil$<br>   |
 | 向下取整 | \lfloor x \rfloor | $\lfloor x \rfloor$<br> |
+| 分号   | \frac{a}{b}       | $\frac{a}{b}$           |
+```latex
+**常用的三种大括号写法**
+$$ f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right.
+$$
+
+
+
+$$ F^{HLLC}=\left\{
+\begin{array}{rcl}
+F_L       &      & {0      <      S_L}\\
+F^*_L     &      & {S_L \leq 0 < S_M}\\
+F^*_R     &      & {S_M \leq 0 < S_R}\\
+F_R       &      & {S_R \leq 0}
+\end{array} \right. $$
+
+
+$$f(x)=
+\begin{cases}
+0& \text{x=0}\\
+1& \text{x!=0}
+\end{cases}$$
+\end{CJK*}
+\end{document}
+
+```
 

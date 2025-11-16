@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "novel/金手指/推荐.md",
+                "file": "novel/待写题材/诸天融合/童年融合/大纲.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "推荐"
+              "title": "大纲"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 274
   },
   "right": {
     "id": "31282b208c742fa4",
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer/Algorithm/基础：数据结构及排序/链表.md",
+                "file": "novel/历史/十景缎/人物/慕容茵.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 链表"
+              "title": "慕容茵 的大纲"
             }
           },
           {
@@ -158,8 +158,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -184,44 +184,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "128c433a2623d18e",
+  "active": "0033f615c8e1f3a7",
   "lastOpenFiles": [
-    "novel/模板/人物模板简要版.md",
-    "novel/其他/主神空间降临综漫日常番/人物/主角北宫无月.md",
-    "novel/模板/人物模板-2.md",
-    "novel/其他/主神空间降临综漫日常番/世界观.md",
-    "novel/其他/主神空间降临综漫日常番/事件",
-    "novel/其他/主神空间降临综漫日常番/地点和势力",
-    "novel/玄幻/推荐.md",
-    "novel/其他/主神空间降临综漫日常番/人物",
-    "novel/其他/主神空间降临综漫日常番",
-    "novel/悬疑/推荐.md",
-    "novel/其他/纵欲返古/地点和势力/白莲教.md",
-    "novel/其他/纵欲返古/人物/王萍萍.md",
-    "novel/其他/纵欲返古/人物/田甜.md",
-    "novel/其他/纵欲返古/人物/唐素.md",
-    "novel/其他/纵欲返古/人物/唐梦.md",
-    "novel/其他/纵欲返古/人物/苏瑶.md",
-    "novel/其他/纵欲返古/人物/苏琴.md",
-    "novel/其他/纵欲返古/人物/宋小惠.md",
-    "novel/其他/纵欲返古/人物/宋巧巧.md",
-    "novel/其他/纵欲返古/人物/圣姑.md",
-    "novel/其他/纵欲返古/人物/何花.md",
-    "novel/其他/纵欲返古/人物/黄雅芳.md",
-    "novel/其他/纵欲返古/人物/皇后萧如玉.md",
-    "novel/其他/纵欲返古/人物/寒冰.md",
-    "novel/其他/纵欲返古/人物/公主赵灵儿.md",
-    "novel/其他/纵欲返古/人物/凤鸣倩.md",
-    "novel/其他/纵欲返古/人物/凤凰.md",
-    "novel/其他/纵欲返古/人物/方秀宁.md",
-    "novel/其他/纵欲返古/人物/单丽影.md",
-    "novel/其他/纵欲返古/人物/单丽娟.md",
-    "novel/待写题材/诸天融合/人物",
-    "novel/待写题材/同人/二次元",
-    "novel/待写题材/同人/武侠",
-    "novel/待写题材/诸天融合",
-    "Help/ToolsHelp/未命名.base",
-    "literature/novel/金手指",
+    "novel/待写题材/诸天融合/童年融合/人物",
+    "novel/待写题材/诸天融合/诸天融合文大纲.md",
+    "novel/待写题材/诸天融合/童年融合/大纲.md",
+    "novel/待写题材/诸天融合/童年融合",
+    "novel/待写题材/多元世界/多元世界人物大纲.md",
+    "novel/待写题材/多元世界/背景大纲.md",
+    "novel/待写题材/多元世界/武道大陆/简介.md",
+    "novel/待写题材/多元世界/悬疑大陆/简介.md",
+    "novel/待写题材/多元世界/修仙大陆/简介.md",
+    "novel/历史/绿帽武林之淫乱后宫/情节/赵寻与罗芸.md",
+    "novel/历史/绿帽武林之淫乱后宫/情节/寺庙.md",
+    "novel/历史/绿帽武林之淫乱后宫/情节/岳父沈世奇.md",
+    "novel/历史/纵欲返古/人物/安婕妤.md",
+    "novel/历史/纵欲返古/人物/舞弄月.md",
+    "novel/历史/纵欲返古/事件/寺庙厕所事件.md",
+    "novel/历史/十景缎/情节/拷问林家兄弟.md",
+    "novel/历史/十景缎/情节/郊野受辱.md",
+    "novel/历史/十景缎/情节/黑化版被羞辱.md",
+    "novel/历史/绿帽武林之淫乱后宫/情节/白莲教老道+青楼.md",
+    "novel/历史/十景缎/人物/慕容茵.md",
+    "novel/历史/十景缎/人物/紫缘.md",
+    "novel/历史/十景缎/情节/于府伏击.md",
+    "novel/历史/十景缎/情节/小慕容帝陵失身.md",
+    "novel/历史/十景缎/情节/树上百合.md",
+    "novel/历史/十景缎/情节/两女用竹子玩耍.md",
+    "novel/历史/十景缎/情节/河边受辱.md",
+    "novel/历史/十景缎/情节/船舱四女游戏.md",
+    "novel/历史/绿帽武林之淫乱后宫/情节",
+    "novel/历史/绿帽武林之淫乱后宫/人物",
+    "novel/历史/绿帽武林之淫乱后宫",
+    "novel/历史/混在后宫假太监",
+    "novel/描写人物/行动",
+    "novel/描写人物",
+    "novel/历史/十景缎/地点和势力",
+    "novel/历史/十景缎/情节",
+    "novel/历史/十景缎/人物",
     "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019003523.png",
     "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019003317.png",
     "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019002918.png",

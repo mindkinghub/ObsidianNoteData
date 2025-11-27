@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "128c433a2623d18e",
+            "id": "a7dae71882921bed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "novel/悬疑/推荐.md",
+                "file": "novel/动漫/国漫/尸兄/人物/唯欣-小萌.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "推荐"
+              "title": "唯欣-小萌"
+            }
+          },
+          {
+            "id": "852ce70732999a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "novel/西幻/唐家三少/狂神/人物/白剑.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "白剑"
             }
           }
         ]
@@ -79,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 296
   },
   "right": {
     "id": "31282b208c742fa4",
@@ -184,44 +199,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "128c433a2623d18e",
+  "active": "a7dae71882921bed",
   "lastOpenFiles": [
-    "novel/修仙/推荐.md",
+    "novel/动漫/国漫/狐妖小红娘/人物/翠玉小昙.md",
+    "novel/动漫/国漫/狐妖小红娘/人物/东方淮竹.md",
     "novel/玄幻/推荐.md",
-    "novel/西幻/推荐.md",
-    "novel/西幻/罪恶之城/罪恶之城.md",
-    "novel/待写题材/诸天融合/童年融合/大纲.md",
-    "novel/待写题材/诸天融合/童年融合/人物",
-    "novel/待写题材/诸天融合/诸天融合文大纲.md",
-    "novel/待写题材/诸天融合/童年融合",
-    "novel/待写题材/多元世界/多元世界人物大纲.md",
-    "novel/待写题材/多元世界/背景大纲.md",
-    "novel/待写题材/多元世界/武道大陆/简介.md",
-    "novel/待写题材/多元世界/悬疑大陆/简介.md",
-    "novel/待写题材/多元世界/修仙大陆/简介.md",
-    "novel/历史/绿帽武林之淫乱后宫/情节/赵寻与罗芸.md",
-    "novel/历史/绿帽武林之淫乱后宫/情节/寺庙.md",
-    "novel/历史/绿帽武林之淫乱后宫/情节/岳父沈世奇.md",
-    "novel/历史/纵欲返古/人物/安婕妤.md",
-    "novel/历史/纵欲返古/人物/舞弄月.md",
-    "novel/历史/纵欲返古/事件/寺庙厕所事件.md",
-    "novel/历史/十景缎/情节/拷问林家兄弟.md",
-    "novel/历史/十景缎/情节/郊野受辱.md",
-    "novel/历史/十景缎/情节/黑化版被羞辱.md",
-    "novel/历史/绿帽武林之淫乱后宫/情节/白莲教老道+青楼.md",
-    "novel/历史/十景缎/人物/慕容茵.md",
-    "novel/历史/十景缎/人物/紫缘.md",
-    "novel/历史/十景缎/情节/于府伏击.md",
-    "novel/历史/十景缎/情节/小慕容帝陵失身.md",
-    "novel/历史/十景缎/情节/树上百合.md",
-    "novel/历史/绿帽武林之淫乱后宫/情节",
-    "novel/历史/绿帽武林之淫乱后宫/人物",
-    "novel/历史/绿帽武林之淫乱后宫",
-    "novel/历史/混在后宫假太监",
-    "novel/描写人物/行动",
-    "novel/描写人物",
-    "novel/历史/十景缎/地点和势力",
-    "novel/历史/十景缎/情节",
+    "novel/玄幻/妖神记/人物/应月茹.md",
+    "novel/玄幻/妖神记/人物/叶紫芸.md",
+    "novel/玄幻/妖神记/人物/肖凝儿.md",
+    "novel/玄幻/妖神记/人物/萧语.md",
+    "novel/玄幻/妖神记/人物/萧雪.md",
+    "novel/玄幻/妖神记/人物/沈秀.md",
+    "novel/玄幻/天蚕土豆/元尊/人物/夭夭.md",
+    "novel/玄幻/天蚕土豆/元尊/人物/郗菁.md",
+    "novel/玄幻/天蚕土豆/元尊/人物/苏幼微.md",
+    "novel/玄幻/天蚕土豆/元尊/人物/秦玉.md",
+    "novel/玄幻/天蚕土豆/武动乾坤/人物/绫清竹.md",
+    "novel/玄幻/天蚕土豆/武动乾坤/人物/林青檀.md",
+    "novel/玄幻/天蚕土豆/武动乾坤/人物/古梦琪.md",
+    "novel/玄幻/天蚕土豆/武动乾坤/人物/冰主-应欢欢.md",
+    "novel/玄幻/天蚕土豆/大主宰/人物/清衍静.md",
+    "novel/玄幻/天蚕土豆/大主宰/人物/曼荼罗.md",
+    "novel/玄幻/天蚕土豆/大主宰/人物/洛璃.md",
+    "novel/玄幻/天蚕土豆/大主宰/人物/灵溪.md",
+    "novel/玄幻/天蚕土豆/大主宰/人物/九幽.md",
+    "novel/玄幻/天蚕土豆/斗破苍穹/人物/紫妍.md",
+    "novel/玄幻/天蚕土豆/斗破苍穹/人物/云韵.md",
+    "novel/玄幻/天蚕土豆/斗破苍穹/人物/月媚.md",
+    "novel/玄幻/天蚕土豆/斗破苍穹/人物/夭夜公主.md",
+    "novel/都市/情节",
+    "novel/影视/无限恐怖/人物",
+    "novel/影视/无限恐怖",
+    "novel/修仙/仙媳攻略/人物",
+    "novel/修仙/仙媳攻略",
+    "novel/玄幻/情节",
+    "novel/西幻/情节",
+    "novel/西幻/唐家三少/斗罗大陆/斗一/人物",
+    "novel/修仙/诛仙/情节",
+    "novel/历史/秦/人物",
+    "novel/动漫/Untitled.canvas",
     "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019003523.png",
     "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019003317.png",
     "Computer/Algorithm/基础：数据结构及排序/attachments/Pasted image 20251019002918.png",

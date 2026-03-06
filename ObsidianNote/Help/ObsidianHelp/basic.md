@@ -26,7 +26,7 @@
 | Add current document properties | `Ctrl+;`                         |
 | Toggle view                     | `Ctrl+E`                         |
 | Open a new tab                  | `Ctrl+T`                         |
-|                                 |                                  |
+
 
 ### Text editing 
 
